@@ -5,6 +5,7 @@
   "BOILERPLATE.AbilityInt": "Intelligence",
   "BOILERPLATE.AbilityWis": "Wisdom",
   "BOILERPLATE.AbilityCha": "Charisma",
+  "BOILERPLATE.AbilityPer": "Perception",
 
   "BOILERPLATE.AbilityStrAbbr": "str",
   "BOILERPLATE.AbilityConAbbr": "con",
@@ -12,6 +13,7 @@
   "BOILERPLATE.AbilityIntAbbr": "int",
   "BOILERPLATE.AbilityWisAbbr": "wis",
   "BOILERPLATE.AbilityChaAbbr": "cha",
+  "BOILERPLATE.AbilityPerAbbr": "per",
 
   "BOILERPLATE.EffectCreate": "Create Effect",
   "BOILERPLATE.EffectToggle": "Toggle Effect",

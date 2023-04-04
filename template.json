@@ -23,6 +23,17 @@
           "value": 1
         }
       },
+      "damages": {
+        "phy": {
+          "value": 1
+        },
+        "emp": {
+          "value": 3
+        },
+        "rad": {
+          "value": 7
+        }
+      },
       "abilities": {
         "str": {
           "value": 10
@@ -41,6 +52,9 @@
         },
         "cha": {
           "value": 10
+        },
+        "per": {
+          "value": 0
         }
       }
     },

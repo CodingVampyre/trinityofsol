@@ -56,6 +56,9 @@ export class TrinityOfSolActorSheet extends ActorSheet {
     // Prepare active effects
     context.effects = prepareActiveEffectCategories(this.actor.effects);
 
+    // Prepare damages
+    context.damages = actorData.damages;
+
     return context;
   }
 
